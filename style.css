@@ -86,3 +86,9 @@ p {
 .email-link:hover {
   text-decoration: underline;
 }
+
+@media (max-width:575.98px){
+  .appbtn{
+    font-size: 14px;
+  }
+}
