@@ -90,5 +90,6 @@ p {
 @media (max-width:575.98px){
   .appbtn{
     font-size: 14px;
+    padding: 6px 12px;
   }
 }
